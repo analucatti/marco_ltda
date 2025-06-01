@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601757296711",
+    "project_id": "marco-ltda",
+    "storage_bucket": "marco-ltda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601757296711:android:034a2e51c67cdea4bc6962",
+        "android_client_info": {
+          "package_name": "com.lucatti.marco_ltda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxdWUW8eEN_IfoVGJLLvxNjjarHr4ftk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
